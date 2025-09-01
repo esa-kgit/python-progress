@@ -1,0 +1,38 @@
+completed:
+/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+--> 35 args & kwargs
+--> 38 list comprehension
+--> 39 match-case
+--> 47 object oriented programming
+--> 48 class variables
+--> 40 modules
+--> 41 scope resolution
+--> 49 inheritance
+--> 50 multiple inheritances
+--> 51 abstract classes
+--> 52 super()
+--> 53 polymorphism
+--> 54 duck typing
+--> 55 aggregation
+--> 56 composition
+
+next to do:
+/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+--> 42 __main__ XXXXXXX
+--> 57 nested classes **
+--> 58 static methods
+--> 59 class methods
+--> 60 magic methods
+--> 61 @property
+--> 62 decorators
+
+
+notes:
+/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+--> *args packs arguments into a tuple
+--> **kwargs packs arguments into a dict 
+--> [expression for value in iterable if condition]
+--> match argument:
+        case _: / case <event>:
+--> (LEGB) local -> enclosed -> global -> built-in
+--> super().__init__(attribute, attribute ...)
