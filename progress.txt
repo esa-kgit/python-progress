@@ -16,11 +16,11 @@ completed:
 --> 55 aggregation
 --> 56 composition
 --> 57 nested classes
+--> 58 static methods
 
 next to do:
 /-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
 --> 42 __main__ XXXXXXX
---> 58 static methods
 --> 59 class methods
 --> 60 magic methods
 --> 61 @property
